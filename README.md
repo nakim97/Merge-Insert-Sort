@@ -1,5 +1,5 @@
-# CS 325 Homework Assignment 1
-Na Kim CS325 WI 2021
+# InsertSort and MergeSort along with run times
+Na Kim CS325 (Analysis of Algorithms) WI 2021 : HW 1
 
 INSTRUCTIONS
 - Make sure that data.txt file is in the same directory as the rest of the codes
