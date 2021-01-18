@@ -1,7 +1,7 @@
 import random
 import time
 
-# Reference: Insertion Sort method implemented from CS162 Lecture (Exploration:Searching,sorting,algorithm analysis)
+
 def insert_sort(array_list):
     """ this function will sort a given vector/array of integers in ascending order"""
     # the second value from the array is pulled, values larger than value pulled is slided over, value pulled fills spot
