@@ -2,7 +2,7 @@
 # Date: 01/7/2021
 # Assignment: CS 325 HW 1
 
-# Reference: Insertion Sort method implemented from CS162 Lecture (Exploration:Searching,sorting,algorithm analysis)
+
 
 def insert_sort(array_list):
     """ this function will sort a given vector/array of integers in ascending order"""
