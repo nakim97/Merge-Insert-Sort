@@ -1,7 +1,7 @@
 import random
 import time
 
-# Citation for merge sort :  https://www.geeksforgeeks.org/merge-sort/
+# Reference for merge sort :  https://www.geeksforgeeks.org/merge-sort/
 def merge_sort(array_list):
     """ this function implements a merge sort to sort an array/vector of integers in ascending order"""
     if len(array_list) > 1:
